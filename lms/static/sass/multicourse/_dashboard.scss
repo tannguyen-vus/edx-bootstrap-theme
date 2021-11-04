@@ -11,6 +11,7 @@
 
 // +Dashboard - Sidebar
 // ====================
+$base-font-color: "#5a4e4e";
 .dashboard {
   @include clearfix();
   padding: ($baseline*2) 0 $baseline 0;
